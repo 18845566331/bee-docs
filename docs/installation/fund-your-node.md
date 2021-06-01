@@ -12,7 +12,7 @@ Once you have determined your Ethereum address, join our [Discord server](https:
 Here you must **type** (not copy paste) the following, replacing the address with your own:
 
 ```
-/faucet sprinkle 0xabeeecdef123452a40f6ea9f598596ca8556bd57
+/faucet sprinkle 0x29b9ba6b8c5c69f37430901cdec43ed10e26b6c9
 ```
 
 If you have problems, please let us know by making a post in the [#faucet](https://discord.gg/kfKvmZfVfe) channel, we will do our best to provide tokens to everyone. 
